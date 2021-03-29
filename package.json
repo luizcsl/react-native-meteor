@@ -47,9 +47,5 @@
     "mock-socket": "^8.0.0",
     "sinon": "^7.3.0"
   },
-  "peerDependencies": {
-    "react": "*",
-    "react-native": "^0.60.0"
-  }
-}
+ 
 }
